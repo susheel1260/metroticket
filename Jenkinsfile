@@ -5,7 +5,7 @@ node {
         echo 'Checking out source code from GitHub'
 
         git branch: 'main',
-            url: 'https://github.com/sitakameshwari/metroticket.git'
+            url: 'https://github.com/susheel1260/metroticket.git'
     }
 
     stage('Build') {
